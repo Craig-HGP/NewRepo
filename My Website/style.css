@@ -1,0 +1,20 @@
+h1, p {
+	color: white;
+}
+
+.bgcolor {
+	background-color: gray;
+}
+
+img {
+	box-align: center;
+}
+
+.imageborders {
+	border-style: solid;
+	border-width: 3px;
+}
+
+/*nav {
+	background-color: black;
+}*/
